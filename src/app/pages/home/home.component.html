@@ -1,0 +1,12 @@
+<app-menu-bar></app-menu-bar>
+<section class="center">
+   <app-card-game *ngFor="let game of data" 
+   gameCover="{{game.gameCover}}"
+   tagEspecial="{{game.tagEspecial}}"
+   nameGame="{{game.nameGame}}"
+   typeGame="{{game.typeGame}}"
+   console="{{game.console}}"
+   price="{{game.price}}"></app-card-game>
+
+
+</section>
