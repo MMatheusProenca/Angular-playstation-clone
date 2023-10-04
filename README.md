@@ -25,7 +25,7 @@
 2. **Clone o Repositório**:
 
    ```sh
-   git clone https://link_do_seu_repositorio.git
+   git clone https://github.com/MMatheusProenca/Angular-playstation-clone.git
 3. **Navegue até o diretório do projeto**:
    ```sh
    cd ANGULAR-PLAYSTATION-STORE
